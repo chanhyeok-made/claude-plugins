@@ -1,0 +1,25 @@
+{
+  "name": "chanhyeok-plugins",
+  "owner": {
+    "name": "chanhyeok-made"
+  },
+  "plugins": [
+    {
+      "name": "ccx",
+      "description": "Claude Code extension for project-aware development pipeline with analysis cache, session management, and automated workflows",
+      "source": {
+        "source": "github",
+        "repo": "chanhyeok-made/ccx"
+      },
+      "strict": false,
+      "skills": [
+        "./skills/run",
+        "./skills/analyze",
+        "./skills/review",
+        "./skills/commit",
+        "./skills/index",
+        "./skills/resolve"
+      ]
+    }
+  ]
+}
