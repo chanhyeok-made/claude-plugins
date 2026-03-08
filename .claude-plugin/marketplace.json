@@ -11,15 +11,7 @@
         "source": "url",
         "url": "https://github.com/chanhyeok-made/ccx.git"
       },
-      "strict": false,
-      "skills": [
-        "./skills/run",
-        "./skills/analyze",
-        "./skills/review",
-        "./skills/commit",
-        "./skills/index",
-        "./skills/resolve"
-      ]
+      "strict": true
     }
   ]
 }
