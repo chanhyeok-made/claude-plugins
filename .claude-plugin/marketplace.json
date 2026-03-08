@@ -8,8 +8,8 @@
       "name": "ccx",
       "description": "Claude Code extension for project-aware development pipeline with analysis cache, session management, and automated workflows",
       "source": {
-        "source": "github",
-        "repo": "chanhyeok-made/ccx"
+        "source": "url",
+        "url": "https://github.com/chanhyeok-made/ccx.git"
       },
       "strict": false,
       "skills": [
